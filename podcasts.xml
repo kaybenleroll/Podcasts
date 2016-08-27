@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Sat, 27 Aug 2016 13:29:31 GMT</dateCreated>
+	<dateModified>Sat, 27 Aug 2016 13:29:31 GMT</dateModified>
+</head>
+<body>
+	<outline text="Talking Machines" type="rss" xmlUrl="http://www.thetalkingmachines.com/blog/?format=RSS" htmlUrl="http://www.thetalkingmachines.com/blog/" />
+	<outline text="Partially Derivative" type="rss" xmlUrl="http://feeds.feedburner.com/PartiallyDerivative" htmlUrl="http://partiallyderivative.com" />
+	<outline text="Twilio Radio" type="rss" xmlUrl="https://simplecast.com/podcasts/1670/rss" htmlUrl="http://twilio.com/blog" />
+	<outline text="The Tim Ferriss Show" type="rss" xmlUrl="http://feeds.feedburner.com/thetimferrissshow" htmlUrl="http://www.fourhourworkweek.com" />
+	<outline text="O'Reilly Data Show - O'Reilly Media Podcast" type="rss" xmlUrl="http://feeds.podtrac.com/IOJSwQcdEBcg" htmlUrl="https://www.oreilly.com" />
+	<outline text="Pure Trance Radio Podcast with Solarstone" type="rss" xmlUrl="https://www.thisisdistorted.com/repository/xml/SolarstonePureTrance1463143743.xml" htmlUrl="http://www.puretrance.com" />
+	<outline text="The Journal by Kevin Rose" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:2655632/sounds.rss" htmlUrl="http://www.thejournal.email" />
+	<outline text="Linear Digressions" type="rss" xmlUrl="http://feeds.feedburner.com/udacity-linear-digressions?format=xml" htmlUrl="http://lineardigressions.com" />
+	<outline text="What's The Point" type="rss" xmlUrl="http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=13131752" htmlUrl="http://www.espn.com/espnradio/podcast/index" />
+	<outline text="Not So Standard Deviations" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:174789515/sounds.rss" htmlUrl="https://play.google.com/music/listen?u=0#/ps/Izfnbx6tlruojkfrvhjfdj3nmna" />
+	<outline text="Obsessive-Compulsive Data Quality (OCDQ) Radio" type="rss" xmlUrl="https://dl.dropboxusercontent.com/u/18551445/OCDQ%20Radio.xml" htmlUrl="http://www.ocdqblog.com/" />
+	<outline text="The Changelog" type="rss" xmlUrl="http://feeds.5by5.tv/changelog" htmlUrl="http://5by5.tv/changelog" />
+	<outline text="EconTalk" type="rss" xmlUrl="http://files.libertyfund.org/econtalk/EconTalk.xml" htmlUrl="http://www.EconTalk.org" />
+</body>
+</opml>
