@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Sun, 13 Nov 2016 13:30:53 GMT</dateCreated>
+	<dateModified>Sun, 13 Nov 2016 13:30:53 GMT</dateModified>
+</head>
+<body>
+	<outline text="The Naked Scientists Podcast" type="rss" xmlUrl="http://www.thenakedscientists.com/naked_scientists_podcast.xml" htmlUrl="http://www.thenakedscientists.com" />
+	<outline text="Common Sense with Dan Carlin" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml" htmlUrl="http://www.dancarlin.com" />
+	<outline text="Declarations of War" type="rss" xmlUrl="http://declarationsofwar.com/feed/" htmlUrl="http://declarationsofwar.com" />
+	<outline text="DH Unplugged" type="rss" xmlUrl="http://feeds.dhunplugged.com/DHUnplugged" htmlUrl="http://www.dhunplugged.com" />
+	<outline text="Episodes - Down The Pipe" type="rss" xmlUrl="http://feeds.feedburner.com/DownThePipe" htmlUrl="http://downthepipe-wh.com/episodes/" />
+	<outline text="EconTalk" type="rss" xmlUrl="http://files.libertyfund.org/econtalk/EconTalk.xml" htmlUrl="http://www.EconTalk.org" />
+	<outline text="EVE Online Pod Pack" type="rss" xmlUrl="http://feeds.feedburner.com/eveonlinepodpack" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=5291ec04aef7f1f3a7dc7baca136541d" />
+	<outline text="FLOSS Weekly (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/floss.xml" htmlUrl="https://twit.tv/shows/floss-weekly" />
+	<outline text="Fly Reckless" type="rss" xmlUrl="http://www.flyreckless.com/newsite/index.php/component/podcastmanager/?format=raw&#38;feedname=4&#38;limit=*" htmlUrl="http://www.flyreckless.com/newsite/" />
+	<outline text="Football with John Giles" type="rss" xmlUrl="http://www.newstalk.ie/content/001/podcastFeeds/164.xml?/podcast_series/items/739/feedformat_itunes/" htmlUrl="http://www.newstalk.com/offtheball" />
+	<outline text="Here's The Thing with Alec Baldwin" type="rss" xmlUrl="http://feeds.feedburner.com/wnycheresthething" htmlUrl="http://www.wnyc.org/shows/heresthething" />
+	<outline text="High Drag An Eve Online Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/highdrageve" htmlUrl="https://highdrag.wordpress.com" />
+	<outline text="In Our Time" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b006qykl" />
+	<outline text="ISK" type="rss" xmlUrl="http://emorris1000.podbean.com/feed/" />
+	<outline text="More or Less: Behind the Stats" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrss1" />
+	<outline text="No Agenda" type="rss" xmlUrl="http://feed.nashownotes.com/rss.xml" htmlUrl="http://noagendashow.com" />
+	<outline text="Intelligence Squared U.S. Debates" type="rss" xmlUrl="http://feeds.feedburner.com/IQ2USDebates" htmlUrl="http://intelligencesquaredus.org/" />
+	<outline text="Planet Money" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" htmlUrl="http://www.npr.org/planetmoney" />
+	<outline text="The Reith Lectures" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/b00729d9/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b00729d9" />
+	<outline text="Second Captains @ The Irish Times" type="rss" xmlUrl="http://feeds.feedburner.com/secondcaptainsitcom" htmlUrl="http://soundcloud.com/secondcaptains-it-com" />
+	<outline text="Security Now (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/sn.xml" htmlUrl="https://twit.tv/shows/security-now" />
+	<outline text="The Disciplined Investor" type="rss" xmlUrl="http://feeds.feedburner.com/tdicasts" htmlUrl="http://www.thedisciplinedinvestor.com/blog" />
+	<outline text="The Fantasy Football Guys" type="rss" xmlUrl="http://feeds.feedburner.com/thefantasyfootballguys" htmlUrl="http://www.thefantasyfootballguys.com/blog" />
+	<outline text="The Game Design Round Table" type="rss" xmlUrl="http://feeds.feedburner.com/thegamedesignroundtable" htmlUrl="http://thegamedesignroundtable.com" />
+	<outline text="The History of Byzantium" type="rss" xmlUrl="http://thehistoryofbyzantium.libsyn.com/rss" htmlUrl="http://www.thehistoryofbyzantium.com" />
+	<outline text="The History of Rome" type="rss" xmlUrl="http://historyofrome.libsyn.com/rss" htmlUrl="http://thehistoryofrome.typepad.com/the_history_of_rome/" />
+	<outline text="The Skeptics' Guide to the Universe" type="rss" xmlUrl="http://www.theskepticsguide.org/feed/rss.aspx?feed=sgu" htmlUrl="http://www.theskepticsguide.org/podcast/sgu" />
+	<outline text="Revolutions" type="rss" xmlUrl="http://revolutionspodcast.libsyn.com/rss" htmlUrl="http://www.revolutionspodcast.com" />
+	<outline text="Hydrostatic Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/hydrostaticpodcast" htmlUrl="http://www.hydrostaticeve.com/search/label/Podcast" />
+	<outline text="Corp Draw" type="rss" xmlUrl="http://corpdraw.com/feed/podcast" htmlUrl="http://corpdraw.com" />
+	<outline text="History of the Crusades" type="rss" xmlUrl="http://historyofthecrusades.podomatic.com/rss2.xml" htmlUrl="http://historyofthecrusades.podomatic.com" />
+	<outline text="Comments on:" type="rss" xmlUrl="http://teamcovenant.com/breakingnews/category/netrunner-lcg/netrunner-lcg-podcast/feed" htmlUrl="http://teamcovenant.com/breakingnews" />
+	<outline text="Dan Carlin's Hardcore History" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl="http://www.dancarlin.com" />
+	<outline text="Desert Island Discs: Archive 2005-2011" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/p02p705b/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02p705b" />
+	<outline text="Desert Island Discs" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/b006qnmr/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b006qnmr" />
+	<outline text="Let's Level Up »" type="rss" xmlUrl="http://www.letslevelup.net/feed/" htmlUrl="http://www.letslevelup.net" />
+	<outline text="Podside Podcast Episodes" type="rss" xmlUrl="http://podcasts.mpxmirror.com/podside/index.xml" htmlUrl="http://multiplexgaming.com/page/podsidefeed" />
+	<outline text="The Eve Reader Podcast" type="rss" xmlUrl="http://evereader.phoibe.org/?feed=rss2" htmlUrl="http://evereader.phoibe.org" />
+	<outline text="The History of English Podcast" type="rss" xmlUrl="http://historyofenglishpodcast.com/feed/podcast/" htmlUrl="http://historyofenglishpodcast.com" />
+	<outline text="Irish History Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/http/wwwirishhistorypodcastie/feed" htmlUrl="http://www.Irishhistorypodcast.ie" />
+	<outline text="Talking Machines" type="rss" xmlUrl="http://www.thetalkingmachines.com/blog/?format=RSS" htmlUrl="http://www.thetalkingmachines.com/blog/" />
+	<outline text="Serial" type="rss" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org" />
+	<outline text="10 American Presidents Podcast" type="rss" xmlUrl="http://rss.acast.com/10americanpresidents" htmlUrl="http://www.acast.com/10americanpresidents" />
+	<outline text="The Off the Ball Football Show" type="rss" xmlUrl="http://www.newstalk.ie/content/001/podcastFeeds/168.xml?/podcast_series/items/740/feedformat_itunes/" htmlUrl="http://www.newstalk.com/offtheball" />
+	<outline text="When Diplomacy Fails Podcast" type="rss" xmlUrl="http://rss.acast.com/whendiplomacyfails" htmlUrl="http://www.acast.com/whendiplomacyfails" />
+	<outline text="Data Skeptic" type="rss" xmlUrl="http://dataskeptic.libsyn.com/rss" htmlUrl="http://dataskeptic.com" />
+	<outline text="Linear Digressions" type="rss" xmlUrl="http://feeds.feedburner.com/udacity-linear-digressions?format=xml" htmlUrl="http://lineardigressions.com" />
+	<outline text="Presidential" type="rss" xmlUrl="http://podcast.posttv.com/itunes-5682a6c9e4b0d623714f2a3b.xml" htmlUrl="http://www.washingtonpost.com" />
+	<outline text="Hardcore History Download" type="rss" xmlUrl="" />
+	<outline text="Podcastle – Shut Up &#38; Sit Down" type="rss" xmlUrl="https://www.shutupandsitdown.com/feed/?post_type=podcastle" htmlUrl="https://www.shutupandsitdown.com" />
+</body>
+</opml>
